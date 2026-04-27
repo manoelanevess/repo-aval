@@ -26,3 +26,7 @@ function div(v1, v2) {
 }
 
 console.log("Divisão:", div(10, 2)); // 5
+
+function square(v1) {
+  return Math.sqrt(v1);
+}
