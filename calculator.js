@@ -20,3 +20,9 @@ function mult(v1, v2) {
 }
 
 console.log("Multiplicação:", mult(2, 3)); // 6
+
+function div(v1, v2) {
+    return v1 / v2;
+}
+
+console.log("Divisão:", div(10, 2)); // 5
