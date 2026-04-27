@@ -14,3 +14,9 @@ function mult(v1, v2) {}
 function square(v1) {}
 
 console.log(sum(v1, v2));
+
+function mult(v1, v2) {
+  return v1 * v2;
+}
+
+console.log("Multiplicação:", mult(2, 3)); // 6
